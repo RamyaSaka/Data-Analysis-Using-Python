@@ -4,12 +4,6 @@ In this project we are analysing House Sales data in King County, USA.
 
 ![th](https://github.com/RamyaSaka/Data-Analysis-Using-Python/assets/121084757/2a2718d8-adad-4844-9038-09c7877469f9)
 
-<h1>Data Overview</h1> 
-This dataset contains house sale prices for King County. It includes homes sold between May 2014 and May 2015.
-
-
-![image](https://github.com/RamyaSaka/Data-Analysis-Using-Python/assets/121084757/a4d74cf9-d5be-48ad-b978-2eea6a0b41b9)
-
 <h1> Tools Used </h1>
 
 1. **Data Extraction** - Python
@@ -18,7 +12,6 @@ This dataset contains house sale prices for King County. It includes homes sold 
 4. **Model Development** - Python
 5. **Model Evaluation & Refinement** - Python
 
-
 <h1> Libraries Used </h1>
 
 1. **Pandas** - Used to analyze data.
@@ -26,7 +19,14 @@ This dataset contains house sale prices for King County. It includes homes sold 
 3. **Numpy** - Used to perform high performance mathematical calculations on multidimensional arrays and matrices.
 4. **Seaborn** - Used for data visualization and exploratory data analysis.
 5. **Scikit-learn** - Used for predictive data analysis(Machine Learning) in Python.
+   
+<h1>Data Overview</h1> 
+This dataset contains house sale prices for King County. It includes homes sold between May 2014 and May 2015.
 
+
+![image](https://github.com/RamyaSaka/Data-Analysis-Using-Python/assets/121084757/03840054-81ee-4b1b-83f5-e7afa70afd5e)
+
+![image](https://github.com/RamyaSaka/Data-Analysis-Using-Python/assets/121084757/c2f27927-b70c-401a-9856-7b8a9453b5ed)
 
 <h1> Visulization </h1>
 
