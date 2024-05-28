@@ -1,9 +1,16 @@
-# Data-Analysis-Using-Python
+# Housing_Data_Analysis
 
-In this project we are analysing House Sales in King County, USA.
+In this project we are analysing House Sales data in King County, USA.
+
+![th](https://github.com/RamyaSaka/Data-Analysis-Using-Python/assets/121084757/2a2718d8-adad-4844-9038-09c7877469f9)
+
+<h1>Data Overview</h1> 
+This dataset contains house sale prices for King County. It includes homes sold between May 2014 and May 2015.
 
 
-<h1> Software Used </h1>
+![image](https://github.com/RamyaSaka/Data-Analysis-Using-Python/assets/121084757/a4d74cf9-d5be-48ad-b978-2eea6a0b41b9)
+
+<h1> Tools Used </h1>
 
 1. **Data Extraction** - Python
 2. **Data Wrangling** - Python
